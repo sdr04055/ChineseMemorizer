@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "449512235537",
+    "firebase_url": "https://admob-app-id-5671402127.firebaseio.com",
+    "project_id": "admob-app-id-5671402127",
+    "storage_bucket": "admob-app-id-5671402127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449512235537:android:1bdc18f30d54f977",
+        "android_client_info": {
+          "package_name": "com.tistory.tresed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449512235537-gse8klekvi742ov1d49f2pu80jnvjev3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyAVVWbR6ta1wYWZJfPfWphSmE_R4NuT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
